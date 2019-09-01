@@ -1,2 +1,2 @@
 # imnotafred.github.io
-notafred's page
+what is it
