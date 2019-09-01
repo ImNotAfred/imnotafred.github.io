@@ -1,2 +1,2 @@
-# imnotafred.github.io
-what is it
+# Hello,
+ImNotAfred. Welcome on my page.
