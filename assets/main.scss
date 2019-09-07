@@ -1,12 +1,12 @@
 ---
 ---
 
-$text-color: #46433A;
+$text-color: rgb(0, 0, 0);
 $anchor-text-color: #CE534D;
-$background-color: #F1EED9;
+$background-color: rgb(255, 255, 255);
 
 body {
-	font-family: 'Vollkorn', serif;
+	font-family: 'Montserrat', sans-serif;
 	color: $text-color;
 	background-color: $background-color;
 }
