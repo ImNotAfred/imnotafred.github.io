@@ -20,7 +20,7 @@
   text-decoration: none;
 }
 .site-title {
-  font-size: 26px;
+  font-size: 1.2em;
   font-weight: 700;
   line-height: 56px;
   margin-bottom: 0;
@@ -31,7 +31,7 @@
 }
 .menu-list {
   line-height: $header-thickness;
-  float: right;
+  // float: right;
 }
 .menu-link {
   padding: 5px 10px;
