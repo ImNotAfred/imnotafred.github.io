@@ -6,7 +6,7 @@ title: Hello,
 <p>
 My name is Kuba and I am an indie game developer from
 Poznań, Poland. Currently, I work on my own couch game. 
-If you are interested in working together, feel free to mail me! I have tons of great ideas. 
+If you are interested in working together, feel free to mail me. I have tons of great ideas. 
 </p>
 
 <h3>My skills:</h3>
@@ -25,4 +25,3 @@ If you are interested in working together, feel free to mail me! I have tons of 
     <li>PostgreSQL</li>  
 </ul>
 
-[the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
