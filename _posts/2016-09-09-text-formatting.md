@@ -60,9 +60,11 @@ Code blocks are part of the Markdown spec, but syntax highlighting isn't. Howeve
 No language indicated, so no syntax highlighting.
 ```
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
+```python
+def send_image(name)
+    if(request.POST)
+        print("this is something")
+    return JsonResponse({'result': []}) 
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
