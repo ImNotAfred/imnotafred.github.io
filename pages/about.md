@@ -1,9 +1,7 @@
 ---
 layout: misc
-title: About me
+title: Hello,
 ---
-
-<h2>Hello,</h2>
 
 <p>
 My name is Kuba and I am an indie game developer from
