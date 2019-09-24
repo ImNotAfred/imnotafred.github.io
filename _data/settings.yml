@@ -7,8 +7,8 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: '3D modeling', folder: 'pages', file: '3dmodels.html'}
-- {name: 'Programming', folder: 'pages', file: 'resources.html'}
+- {name: '3D modeling', folder: 'pages', file: '3d-models.html'}
+- {name: 'Programming', folder: 'pages', file: 'programming.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 # - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
